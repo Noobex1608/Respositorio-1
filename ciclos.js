@@ -39,3 +39,4 @@ console.log ("La suma total es: " + suma);
 //prompt te da los datos en texto mas no en numeros
 
 // saluditos 7w7 aqui haciendo un cambio pequeño
+// prueba para un pull request 
